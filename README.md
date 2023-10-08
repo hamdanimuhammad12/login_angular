@@ -6,7 +6,7 @@ npm -v
 # Instal Angular CLI
 Angular CLI (Command Line Interface) adalah alat yang digunakan untuk membuat, mengelola, dan menjalankan proyek Angular. Anda dapat menginstal Angular CLI dengan menjalankan perintah berikut di terminal atau command prompt Anda
 
-    npm install -g @angular/cli
+    sudo npm install -g @angular/cli
 
 # Buat Proyek Angular Baru
 Setelah menginstal Angular CLI, Anda dapat membuat proyek Angular baru dengan menjalankan perintah berikut:
