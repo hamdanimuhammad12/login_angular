@@ -1,28 +1,27 @@
-# login_angular
+# LoginAngular
 
-    node -v
-    
-    npm -v
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
-# Instal Angular CLI
-Angular CLI (Command Line Interface) adalah alat yang digunakan untuk membuat, mengelola, dan menjalankan proyek Angular. Anda dapat menginstal Angular CLI dengan menjalankan perintah berikut di terminal atau command prompt Anda
+## Development server
 
-    sudo npm install -g @angular/cli
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-# Buat Proyek Angular Baru
-Setelah menginstal Angular CLI, Anda dapat membuat proyek Angular baru dengan menjalankan perintah berikut:
+## Code scaffolding
 
-    ng new nama-proyek-anda
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Gantilah nama-proyek-anda dengan nama yang Anda inginkan untuk proyek Anda. Anda akan diminta untuk memilih beberapa opsi konfigurasi selama proses pembuatan proyek.
+## Build
 
-# Masuk ke Direktori Proyek
-Setelah proyek Anda berhasil dibuat, masuk ke direktori proyek dengan perintah:
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-    cd nama-proyek-anda
+## Running unit tests
 
-# Jalankan Proyek Angular
-Anda dapat menjalankan proyek Angular Anda dengan perintah berikut
-    ng serve
-Ini akan memulai server pengembangan dan proyek Anda akan dapat diakses melalui browser dengan alamat http://localhost:4200/. Setiap kali Anda melakukan perubahan dalam kode sumber, server pengembangan akan secara otomatis memperbarui proyek Anda.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
